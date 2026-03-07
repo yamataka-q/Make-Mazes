@@ -55,3 +55,7 @@ Canvas上での手描き迷路作成
 ## 画面遷移図（MVP）
 Figma:
 https://www.figma.com/design/9uPz9qOcoVaf7e7ozmveoq/Make-Maze-Diagram?t=IVC53CDE5glyZjLS-1
+
+## ER図(MVP)
+gyazo:
+https://gyazo.com/a300215baf7ab284376cb27492eaff91
